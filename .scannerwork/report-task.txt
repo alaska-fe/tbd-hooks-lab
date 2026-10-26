@@ -1,0 +1,6 @@
+projectKey=tbd-hooks-lab
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=tbd-hooks-lab
+ceTaskId=2e2afc45-c1ae-4124-83c0-6fb4611c4abd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2e2afc45-c1ae-4124-83c0-6fb4611c4abd
